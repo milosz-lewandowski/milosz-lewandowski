@@ -1,5 +1,11 @@
 ### Hi, I'm Miłosz  Lewandowski 
 
+**Heads-up: this profile trails my current work.** Since 2025 I've been building agentic AI systems on the JVM (Spring Boot) - mostly in private repositories for now, as it's fast-moving R&D I'm not ready to publish yet.
+
+Current focus: **context engineering** - deterministic session management for multi-agent work: branching and merging workstreams, lossless context handoff between sessions, and workflows that split and join workstreams seamlessly. MCP and ACP serve as the control plane, with several cross-vendor AI executors behind one interface.
+
+Happy to walk through the architecture - find me on LinkedIn.
+
 `Java Backend Dev since 2018` 
 
 ---
